@@ -1,4 +1,4 @@
-I am a first year Master of Science in Computer Science student at the <a href="https://www.cs.usc.edu/">University of Southern California</a>. My research interests are chiefly Statistical Machine Learning, Deep Learning Theory, Federated Learning, Distributed and Stochastic Optimization, Edge-Computing and Edge-GPU Performance Characterization.
+I am a first year Master of Science in Computer Science student at the <a href="https://www.cs.usc.edu/">University of Southern California</a>. My research interests are chiefly Statistical Machine Learning, Deep Learning Theory, Federated Learning, Stochastic Optimization, Embedded Computing and Edge-GPU Performance Characterization.
 
 Currently, I work on-campus as a Research Assistant in the Department of Computer Science at the USC Viterbi, advised by Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>, where I focus on code optimization for projects on tensor decomposition methods, and anomaly detection using density-based algorithms.
 
