@@ -1,4 +1,4 @@
-I am a second year Master of Science in Computer Science student at the <a href="https://www.cs.usc.edu/">University of Southern California</a>. My research interests are chiefly Statistical Machine Learning, Deep Learning Theory, Federated Learning, Stochastic Optimization, Embedded Computing and Edge-GPU Performance Characterization.
+I am a second year Master of Science in Computer Science student at the <a href="https://www.cs.usc.edu/">University of Southern California</a>. My research interests are chiefly SStatistical Machine Learning, Edge-GPU Performance Characterization, Deep Learning Theory, Stochastic Optimization, Federated Learning, and Embedded Computing.
 
 Currently, I work as a Machine Learning Software Intern at <a href="https://www.degirum.ai">DeGirum Corp.</a>, Santa Clara, where I focus on model optimization for hardware. I am also a Research Assistant in the Department of Computer Science at the USC Viterbi, advised by Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>, where I focus on code optimization for projects on tensor decomposition methods, and anomaly detection using density-based algorithms.
 
